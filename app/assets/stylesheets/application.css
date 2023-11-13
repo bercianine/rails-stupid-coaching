@@ -13,3 +13,7 @@
  *= require_tree .
  *= require_self
  */
+
+ .your-message {
+  background-color: rgba(216, 255, 216, 0.5);
+ }
